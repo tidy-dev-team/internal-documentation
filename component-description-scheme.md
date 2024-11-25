@@ -1,7 +1,5 @@
 # **Component description scheme** _(subject to change)_
 
-#
-
 **Component documentation consists of the following elements:**
 
 1. Information sections
@@ -32,7 +30,6 @@ Feel free to add as many elements as needed, but maintain the structure describe
    2. One tag per line
 
 ## **Example (icon button):**
-
 ℹ️  
 Compact buttons that display only an icon, often used for common actions where space is limited.
 
