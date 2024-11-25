@@ -27,7 +27,7 @@ Feel free to add as many elements as needed, but maintain the structure describe
       - 🗂 \- section to which component belongs to
 2. Tags:
    1. Start with “\#” symbol
-   2. Tags separated by empty spaces or by lines.
+   2. Separate tags by spaces, tabs, or place each one on a separate line.
 
 ## **Example (icon button):**
 
