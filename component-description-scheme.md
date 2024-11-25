@@ -6,7 +6,7 @@
 2. Tags
 3. Misprint
 
-Feel free to add as many elements as needed, but maintain the structure described below. If you add new emojis, include them in the "Currently Defined Sections" list (see 1.d).
+Feel free to add as many elements as needed, but maintain the structure described below. If you add new emojis, include them in the "Currently Defined Sections" list.
 
 **General structure:**
 
