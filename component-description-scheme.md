@@ -26,10 +26,11 @@ Feel free to add as many elements as needed, but maintain the structure describe
       - ℹ️ \- component information
       - 🗂 \- section to which component belongs to
 2. Tags:
-   1. Start wit “\#” symbol
-   2. One tag per line
+   1. Start with “\#” symbol
+   2. Tags separated by empty spaces or by lines.
 
 ## **Example (icon button):**
+
 ℹ️  
 Compact buttons that display only an icon, often used for common actions where space is limited.
 
