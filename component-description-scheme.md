@@ -11,8 +11,8 @@ Feel free to add as many elements as needed, but maintain the structure describe
 **General structure:**
 
 - All elements in the description are separated by empty lines (double enter).
-- **Misprint** always placed last.
-- **Tags** are placed just before the misprint.
+- **Misprint** always placed first.
+- **Tags** are placed second.
 
 **Element structure:**
 
